@@ -4,9 +4,18 @@ This is a repository for anyone who wants to become a powerful programmer. We sh
 
 ## How to get started
 Fork this repository to your own GitHub account.
+
 Clone the forked repository to your local machine.
+
 Create a new branch for your feature or bug fix.
+
 Make your changes and commit them with a clear message.
+
 Push your branch to your forked repository.
+
 Create a pull request from your branch to the main branch of this repository.
+
 Wait for feedback and approval from the maintainers.
+
+
+### And much more :) </>
